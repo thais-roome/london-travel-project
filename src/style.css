@@ -15,9 +15,7 @@ body {
   width: 100%;
   display: block;
 }
-.img-size {
-  width: 10%;
-}
+
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
 }
@@ -174,8 +172,8 @@ header a {
 footer {
   color: white;
   background-image: linear-gradient(
-      rgba(39, 52, 68, 0.6),
-      rgba(39, 52, 68, 0.6)
+      rgba(111, 112, 114, 0.6),
+      rgba(111, 112, 114, 0.6)
     ),
     url("../images/big-ben.jpg");
   background-repeat: no-repeat;
